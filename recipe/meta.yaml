@@ -21,6 +21,7 @@ requirements:
     - python
     - pip
     - pybind11 >=2.6.1
+    - setuptools
   run:
     - python
     - reprit >=0.3.1
